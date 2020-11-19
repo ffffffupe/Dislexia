@@ -125,3 +125,6 @@ $(function(){
 
 
 </script>
+
+Gracias a Geon por proporcionar el código base para este ejemplo.
+Arriba el Santos.

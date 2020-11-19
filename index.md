@@ -2,15 +2,19 @@ Una amiga que tiene dislexia me describió cómo ella experimenta leer. Ella *pu
 
 > Un  timador engañó a tres princesas para que enterraran tres cofres con lo que más querían. El timador las prometió que con los años los objetos de los cofres crecerían.
 
->Matilde, la princesa del palacio rosa, enterró un cofre lleno de  diamantes verdes con la esperanza de que estos crecieran.
+>Cristina, la princesa del palacio rosa, enterró un cofre lleno de  diamantes verdes con la esperanza de que estos crecieran.
 
->Lorena, la princesa del palacio azul, enterró su muñeca preferida esperando que esta creciera a la misma velocidad que ella.
+>Aylen, la princesa del palacio azul, enterró su muñeca preferida esperando que esta creciera a la misma velocidad que ella.
 
->Concha, la princesa del palacio verde, enterró un cofre lleno de semillas.
+>Karla, la princesa del palacio verde, enterró un cofre lleno de semillas.
 
 >Cuando las princesas crecieron fueron a ver sus cofres. Matilde gritó al comprobar que el timador le había robado los diamantes. Lorena lloró al ver que su muñeca no había crecido y estaba estropeada por las lluvias. Concha por su parte se alegró al encontrarse un hermoso árbol que daba fruta con que alimentar a los ciudadanos de su reino
 
-*Fuente: [MundoPrimaria](https://www.mundoprimaria.com/lecturas-para-ninos-primaria/princesa-las-semillas)*
+*Fuente: [MundoPrimaria](https://www.mundoprimaria.com/lecturas-para-ninos-primaria/princesa-las-semillas)*, con algunas modificaciones xd
+
+-----
+
+Hola, maestra Karla. Hola, salón de clase. Espero que pongan atención.
 
 -----
 
@@ -131,8 +135,3 @@ $(function(){
 
 
 </script>
-
--------------------------
-
-Gracias a Geon por proporcionar el código base para este ejemplo.
-Arriba el Santos.

@@ -8,13 +8,15 @@ Una amiga que tiene dislexia me describió cómo ella experimenta leer. Ella *pu
 
 >Karla, la princesa del palacio verde, enterró un cofre lleno de semillas.
 
->Cuando las princesas crecieron fueron a ver sus cofres. Matilde gritó al comprobar que el timador le había robado los diamantes. Lorena lloró al ver que su muñeca no había crecido y estaba estropeada por las lluvias. Concha por su parte se alegró al encontrarse un hermoso árbol que daba fruta con que alimentar a los ciudadanos de su reino
+>Cuando las princesas crecieron fueron a ver sus cofres, Cristina gritó al comprobar que el timador le había robado los diamantes. Aylen lloró al ver que su muñeca no había crecido y estaba estropeada por las lluvias. Karla por su parte se alegró al encontrarse un hermoso árbol que daba fruta con que alimentar a los ciudadanos de su reino.
 
 *Fuente: [MundoPrimaria](https://www.mundoprimaria.com/lecturas-para-ninos-primaria/princesa-las-semillas)*, con algunas modificaciones xd
 
 -----
 
 Hola, maestra Karla. Hola, salón de clase. Espero que pongan atención.
+
+Aquí termina la actividad.
 
 -----
 
